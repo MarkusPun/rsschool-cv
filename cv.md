@@ -27,6 +27,10 @@ return a*b;
 }
 ```
 ******
+### Courses:
+* [Hexlet](https://ru.hexlet.io/)  
+* [HTML Academy](https://htmlacademy.ru/study)
+******
 ### Work experience:
 [rsschool-cv](https://github.com/MarkusPun/rsschool-cv)
 ******
