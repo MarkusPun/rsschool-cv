@@ -1,4 +1,5 @@
 # Nikita Markusenko
+![ave](https://sun9-28.userapi.com/impg/galtdMtiHKScXRqvQCYOsGvSvZpqzfTETG7SEQ/oqVBWoKkck8.jpg?size=81x108&quality=95&sign=a03ea74f28cab6707b1bd5c66b3816b0&type=album)
 ******
 ### Contact information:
 **Phone:** +375 (44) 766-29-80  
